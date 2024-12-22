@@ -1,0 +1,6 @@
+2024-12-21T12:59:07.574157900+05:30 - INFO - Received message: {
+    "type":"CreateSession"
+}
+2024-12-21T12:59:07.574320+05:30 - INFO - New session ID: 66a50d78-267e-41b4-bdfb-ce761e0cceeb
+2024-12-21T12:59:07.574340500+05:30 - INFO - Session created
+2024-12-21T19:19:29.559219600+05:30 - INFO - WebSocket connection closed

@@ -1,0 +1,16 @@
+[package]
+name = "RemoteAccess"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tokio = { version = "1", features = ["full"] }
+tokio-tungstenite = "0.15"
+futures = "0.3"
+log = "0.4"
+log4rs = "1.2"
+env_logger = "0.9"
+tungstenite = "0.15"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0.62"
+uuid = { version = "1", features = ["v4"] }
